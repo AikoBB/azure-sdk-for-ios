@@ -1,6 +1,6 @@
 {
   "name": "AzureCommunicationCommon",
-  "version": "1.2.0-beta.1",
+  "version": "1.2.0-beta.2",
   "summary": "Azure Communication Service common client library for iOS",
   "description": "This package contains common code for Azure Communication Services\nlibraries.",
   "homepage": "https://github.com/Azure/azure-sdk-for-ios",
@@ -17,8 +17,8 @@
   },
   "swift_versions": "5.0",
   "source": {
-    "git": "https://github.com/Azure/azure-sdk-for-ios.git",
-    "tag": "AzureCommunicationCommon_1.2.0-beta.1"
+    "git": "https://github.com/AikoBB/azure-sdk-for-ios.git",
+    "tag": "AzureCommunicationCommon_1.2.0-beta.2"
   },
   "source_files": "sdk/communication/AzureCommunicationCommon/Source/**/*.{swift,h,m}",
   "pod_target_xcconfig": {

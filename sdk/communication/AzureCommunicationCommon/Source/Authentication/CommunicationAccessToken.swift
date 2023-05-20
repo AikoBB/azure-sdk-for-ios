@@ -39,5 +39,6 @@ import Foundation
     public init(token: String, expiresOn: Date) {
         self.token = token
         self.expiresOn = expiresOn
+        print("CommunicationAccessToken: inited")
     }
 }
